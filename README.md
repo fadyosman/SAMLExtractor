@@ -36,3 +36,7 @@ Another option is to pass a list of redirect URLs
 ```
 ./samle.py -R redirect.txt
 ```
+### Example use case in bug bounty
+[https://blog.fadyothman.com/how-i-discovered-xss-that-affects-over-20-uber-subdomains/
+](How I Discovered XSS that Affects Over 20 Uber Subdomains)
+
